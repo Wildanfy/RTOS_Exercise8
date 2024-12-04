@@ -1,5 +1,6 @@
 # RTOS-EXERCISE 8
-https://github.com/user-attachments/assets/fa053e5f-6690-4a58-8052-65a77cf9e9a1
+![image](https://github.com/user-attachments/assets/5b5f55c1-6c20-42a5-b88d-98cd0bb38898)
+
 
 # STM32 FreeRTOS LED Control Project
 
@@ -89,7 +90,8 @@ void accessSharedData(void) {
 
 
 ## IOC Pin
-https://github.com/user-attachments/assets/f8ec3eeb-e419-4fdf-9b1c-f1cd5ee2ceb0
+![image](https://github.com/user-attachments/assets/4e283ef1-6b4b-44cf-b94a-58dad90cf625)
+
 
 
 
